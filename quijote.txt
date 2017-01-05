@@ -5,8 +5,14 @@ de la Mancha
 
 de cuyo nombre
 
+<<<<<<< HEAD
 no quiero acordarme
 
 vivía un ingenioso hidalgo
 
 llamado Don Quijote de la Mancha
+=======
+vivÃ­a un ingenioso hidalgo
+
+hola
+>>>>>>> 5a49c81c1feb8cb7939b3fa90b10d72e9d919119
