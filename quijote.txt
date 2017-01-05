@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 de la Mancha
 
 no quiero acordarme
 
 llamado Don Quijote de la Mancha
+=======
+En un lugar
+
+de cuyo nombre
+
+vivía un ingenioso hidalgo
+
+>>>>>>> 8e6d4a68c7c1d26abb96e2d0a20101b329b1dd0f
